@@ -39,7 +39,7 @@ We also offer web services here: https://p450.biodesign.ac.cn/esp
 ```
 # Installation
 ```bash
-git clone https://github.com/JiangLab2020/Sequ-P450.git
+git clone https://github.com/JiangLab2020/Seq-P450.git
 cd SequP450
 conda env create -f environment.yml
 ```
