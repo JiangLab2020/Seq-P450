@@ -1,0 +1,19 @@
+[espData]
+encoded_path = "data/espData/encoded/"
+model_path = "data/espData/model/"
+
+[SeqP450Data]
+encoded_path = "data/SeqP450Data/encoded/"
+enzyme_path = "data/SeqP450Data/enzyme/"
+esm_path = "data/SeqP450Data/esm/"
+model_path = "data/SeqP450Data/model/"
+output_path = "data/SeqP450Data/output/"
+pair_path = "data/SeqP450Data/pair/"
+substrate_path = "data/SeqP450Data/substrate/"
+
+[screeningData]
+enzyme_path = "data/screeningData/enzyme/"
+esm_path = "data/screeningData/esm/"
+encoded_path = "data/screeningData/encoded/"
+output_path = "data/screeningData/output/"
+model_path = "data/screeningData/model/"
